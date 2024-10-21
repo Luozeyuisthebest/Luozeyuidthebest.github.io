@@ -1,0 +1,103 @@
+4.6802 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+4.6809 	INFO 	Loaded monitor calibration from ['2024_07_12 13:09']
+4.8273 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001E88226F1C0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001E88226F160>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001E88226CF70>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001E882642100>, multiSample=False, name='window1', numSamples=2, pos=[560.0, 240.0], screen=0, size=array([800, 600]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+4.8274 	EXP 	window1: backgroundImage = ''
+4.8274 	EXP 	window1: backgroundFit = 'none'
+4.8276 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001E88226F2E0>
+4.8278 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001E88226F2E0>
+4.8297 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001E88226F2E0>
+4.8301 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001E88226F2E0>
+4.8341 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.8349 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.8359 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.8369 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.8379 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.8386 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.8394 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.8403 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.8409 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.8415 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.8424 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.8433 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.8440 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.8450 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.8458 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.8467 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.8476 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.8484 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.8491 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.8501 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.8507 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.8509 	DEBUG 	Uploading Texture Font fontname to graphics card
+4.8567 	DEBUG 	Upload of Texture Font fontname complete
+4.8578 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001E88226F2E0>
+4.8579 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001E88226F2E0>
+4.8586 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001E88226F2E0>
+4.8591 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001E88226F2E0>
+4.8632 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.8645 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.8656 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.8659 	DEBUG 	Uploading Texture Font fontname to graphics card
+4.8707 	DEBUG 	Upload of Texture Font fontname complete
+4.8723 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+4.8723 	EXP 	window1: recordFrameIntervals = False
+4.9883 	EXP 	window1: recordFrameIntervals = True
+5.0628 	EXP 	Screen (0) actual frame rate measured at 144.00Hz
+5.0628 	EXP 	window1: recordFrameIntervals = False
+5.0629 	EXP 	window1: mouseVisible = False
+5.0632 	EXP 	window1: mouseVisible = False
+5.0633 	EXP 	window1: mouseVisible = False
+5.0637 	EXP 	window1: mouseVisible = False
+5.0640 	EXP 	window1: mouseVisible = False
+5.0674 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.0681 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.0691 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.0701 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.0711 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.0720 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.0727 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.0737 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.0749 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.0759 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.0761 	DEBUG 	Uploading Texture Font fontname to graphics card
+5.0766 	DEBUG 	Upload of Texture Font fontname complete
+5.0777 	EXP 	window1: mouseVisible = False
+5.0778 	EXP 	window1: mouseVisible = False
+5.0781 	EXP 	window1: mouseVisible = False
+5.0784 	EXP 	window1: mouseVisible = False
+5.0921 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+7.4192 	INFO 	keyboard.Keyboard is using iohub backend.
+7.4193 	INFO 	keyboard.Keyboard is using iohub backend.
+7.4193 	INFO 	keyboard.Keyboard is using iohub backend.
+7.4193 	EXP 	untitled: status = STARTED
+7.4195 	EXP 	window1: mouseVisible = False
+7.4586 	EXP 	Created intro1 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='intro1', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='你好，欢迎参加实验！\n请按空格继续。', units='height', win=Window(...), wrapWidth=1)
+7.4587 	EXP 	window1: mouseVisible = False
+7.4822 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+7.4823 	EXP 	window1: mouseVisible = False
+7.4836 	EXP 	Created polygon_4 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([-1., -1., -1.]), fillColorSpace='rgb', fillRGB=array([-1., -1., -1.]), interpolate=True, lineColor=array([-1., -1., -1.]), lineColorSpace='rgb', lineRGB=array([-1., -1., -1.]), lineWidth=1.0, name='polygon_4', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.05, 0.05]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+7.4836 	EXP 	window1: mouseVisible = False
+7.4846 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+7.4846 	EXP 	window1: mouseVisible = False
+7.4864 	EXP 	Created polygon = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([-1.,  1.,  1.]), fillColorSpace='rgb', fillRGB=array([-1.,  1.,  1.]), interpolate=True, lineColor=array([-1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([-1.,  1.,  1.]), lineWidth=1.0, name='polygon', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.1, 0.1]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+0.0428 	INFO 	Keyboard events cleared
+0.0424 	EXP 	intro1: autoDraw = True
+2.2000 	INFO 	Keyboard events cleared
+2.1997 	EXP 	intro1: autoDraw = False
+2.1997 	EXP 	text: autoDraw = True
+4.0880 	DEBUG 	Read excel file with openpyxl: text.xlsx
+4.0883 	EXP 	Imported text.xlsx as conditions, 10 conditions, 3 params
+4.0886 	EXP 	Created sequence: random, trialTypes=10, nReps=1, seed=None
+4.0888 	EXP 	New trial (rep=0, index=0): {'circle_color': 'red', 'answer_correct': 'j', 'need_action': 1}
+4.0956 	EXP 	text: autoDraw = False
+4.0956 	EXP 	polygon_4: autoDraw = True
+4.5830 	EXP 	polygon_4: autoDraw = False
+4.5830 	EXP 	text_2: autoDraw = True
+8.5846 	EXP 	text_2: autoDraw = False
+8.5846 	EXP 	text_2: autoDraw = False
+8.9878 	EXP 	untitled: status = STOPPED
+8.9944 	EXP 	untitled: status = STOPPED
+8.9965 	INFO 	saved data to 'C:\\Users\\Administrator\\Desktop\\李城林\\ABC_Reaction\\data/511567_untitled_2024-10-21_20h47.40.348.csv'
+8.9974 	INFO 	saved data to C:\Users\Administrator\Desktop\李城林\ABC_Reaction\data/511567_untitled_2024-10-21_20h47.40.348.psydat
+9.0179 	EXP 	window1: mouseVisible = True
+9.3962 	DEBUG 	Saving data for untitled ExperimentHandler
